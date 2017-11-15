@@ -1,0 +1,6 @@
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\Timer\bin\Debug\Timer.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\Timer\bin\Debug\Timer.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\Timer\obj\Debug\Timer.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\Timer\obj\Debug\Timer.pdb

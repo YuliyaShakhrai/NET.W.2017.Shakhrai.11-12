@@ -1,0 +1,6 @@
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\BinarySearch\bin\Debug\BinarySearch.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\BinarySearch\obj\Debug\BinarySearch.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\BinarySearch\obj\Debug\BinarySearch.pdb

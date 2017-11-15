@@ -1,0 +1,9 @@
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\TimerConsole\bin\Debug\TimerConsole.exe.config
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\TimerConsole\bin\Debug\TimerConsole.exe
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\TimerConsole\bin\Debug\TimerConsole.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\TimerConsole\bin\Debug\Timer.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\TimerConsole\bin\Debug\Timer.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\TimerConsole\obj\Debug\TimerConsole.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\TimerConsole\obj\Debug\TimerConsole.csproj.CoreCompileInputs.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\TimerConsole\obj\Debug\TimerConsole.exe
+D:\Projects\EPAM\NET.W.2017.Shakhrai.11-12\TimerConsole\obj\Debug\TimerConsole.pdb
